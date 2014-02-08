@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{content:0},objtypes:{},objnames:{},filenames:["index"],titles:["Python Workshop"],objects:{},titleterms:{python:0,workshop:0}})
