@@ -54,3 +54,44 @@ Install pip and virtualenv
 - virtualenv venv1
 - source venv1/bin/activate
 
+
+Interactive prompt
+==================
+
+Syntax
+======
+
+Data types
+==========
+
+Branching logic
+===============
+
+Loops
+=====
+
+Functions
+=========
+
+Classes
+=======
+
+Modules and packages
+====================
+
+Distribution - setuptools, pypi
+===============================
+
+Setting up development environment
+==================================
+
+Command line parsing
+====================
+
+What's next ? Documentation and pointers
+========================================
+
+Thanks!
+=======
+
+http://muthukadan.net

@@ -27,6 +27,16 @@ About Me
 - Employed by FSF India in 2002-2003
 - During PyCON India 2013, received the first Kenneth Gonsalves Award
 
+Introduction
+============
+
+History
+=======
+
+Usage
+=====
+
+
 Installing Python
 =================
 
@@ -35,3 +45,53 @@ Installing Python
 - Configure with prefix
 - Make
 - Make install
+
+Install pip and virtualenv
+==========================
+
+- http://www.pip-installer.org/en/latest/installing.html
+- pip install virtualenv
+- virtualenv venv1
+- source venv1/bin/activate
+
+
+Interactive prompt
+==================
+
+Syntax
+======
+
+Data types
+==========
+
+Branching logic
+===============
+
+Loops
+=====
+
+Functions
+=========
+
+Classes
+=======
+
+Modules and packages
+====================
+
+Distribution - setuptools, pypi
+===============================
+
+Setting up development environment
+==================================
+
+Command line parsing
+====================
+
+What's next ? Documentation and pointers
+========================================
+
+Thanks!
+=======
+
+http://muthukadan.net
