@@ -1,15 +1,17 @@
-
-.. Python Workshop slides file, created by
-   hieroglyph-quickstart on Sat Feb  8 16:08:29 2014.
-
-
 Python Workshop
 ===============
 
-Contents:
+:Authors: Baiju Muthukadan
+:Organization: ZeOmega, Bangalore
+:Time: 3 hours
 
-.. toctree::
-   :maxdepth: 2
+Prerequisites
+=============
 
-
-
+- Operating system: GNU/Linux (Any distribution)
+- Python 2.7
+- Text editor (gedit, vim, emacs etc.)
+- Internet connection (optional)
+- A computer lab
+- Participants should be comfortable with any other programming
+  language (C, C++, Java, C# etc.)
